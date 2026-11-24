@@ -1,0 +1,6 @@
+{
+  "name": "PitchLab PSL Analytics",
+  "description": "Statistical profiler and Python pre-ML script workbench for large PSL cricket match CSV datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
